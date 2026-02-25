@@ -1,0 +1,7 @@
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

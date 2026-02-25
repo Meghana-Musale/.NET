@@ -1,0 +1,7 @@
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\Encapsulation\obj\Debug\Encapsulation.pdb
