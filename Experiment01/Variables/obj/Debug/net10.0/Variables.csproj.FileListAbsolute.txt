@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\bin\Debug\net10.0\Variables.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\bin\Debug\net10.0\Variables.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\bin\Debug\net10.0\Variables.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\bin\Debug\net10.0\Variables.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\refint\Variables.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Variables\obj\Debug\net10.0\ref\Variables.dll

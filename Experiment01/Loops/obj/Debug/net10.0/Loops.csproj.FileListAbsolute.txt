@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\bin\Debug\net10.0\Loops.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\bin\Debug\net10.0\Loops.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\bin\Debug\net10.0\Loops.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\bin\Debug\net10.0\Loops.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\refint\Loops.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Loops\obj\Debug\net10.0\ref\Loops.dll

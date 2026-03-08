@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj": {}
+    "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj": {}
   },
   "projects": {
-    "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj": {
+    "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj",
+        "projectUniqueName": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj",
         "projectName": "OCP",
-        "projectPath": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj",
+        "projectPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\OCP.csproj",
         "packagesPath": "C:\\Users\\manth\\.nuget\\packages\\",
-        "outputPath": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\obj\\",
+        "outputPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\OCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

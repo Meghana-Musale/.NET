@@ -1,26 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Encapsulation
 {
     class Person
     {
-        private string name; // field
-        public string Name   // property
+        // Initializing with string.Empty fixes the CS8618 warning
+        private string name = string.Empty; 
+
+        public string Name
         {
             get { return name; }
             set { name = value; }
         }
     }
+
     internal class Program
     {
         static void Main(string[] args)
         {
             Person myObj = new Person();
+            
+            // Setting the value via the property (Encapsulation)
             myObj.Name = "Meghana";
+            
+            // Getting the value via the property
             Console.WriteLine(myObj.Name);
         }
     }

@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\bin\Debug\net10.0\Ifelse.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\bin\Debug\net10.0\Ifelse.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\bin\Debug\net10.0\Ifelse.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\bin\Debug\net10.0\Ifelse.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\bin\Debug\net10.0\Ifelse.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\refint\Ifelse.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\Ifelse.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\Ifelse\obj\Debug\net10.0\ref\Ifelse.dll

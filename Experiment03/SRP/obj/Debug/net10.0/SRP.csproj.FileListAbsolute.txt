@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\bin\Debug\net10.0\SRP.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\bin\Debug\net10.0\SRP.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\bin\Debug\net10.0\SRP.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\bin\Debug\net10.0\SRP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\bin\Debug\net10.0\SRP.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\refint\SRP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\SRP.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\SRP\obj\Debug\net10.0\ref\SRP.dll

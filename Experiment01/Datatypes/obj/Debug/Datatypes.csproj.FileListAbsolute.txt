@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\bin\Debug\Datatypes.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\bin\Debug\Datatypes.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\bin\Debug\Datatypes.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\obj\Debug\Datatypes.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Datatypes\obj\Debug\Datatypes.pdb

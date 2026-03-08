@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\bin\Debug\Loops.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\bin\Debug\Loops.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\bin\Debug\Loops.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\obj\Debug\Loops.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Loops\obj\Debug\Loops.pdb

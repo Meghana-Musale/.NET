@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\ISP.csproj",
+      "projectUniqueName": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\ISP.csproj",
       "projectName": "ISP",
-      "projectPath": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\ISP.csproj",
+      "projectPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\ISP.csproj",
       "packagesPath": "C:\\Users\\manth\\.nuget\\packages\\",
-      "outputPath": "D:\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\obj\\",
+      "outputPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment03\\ISP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

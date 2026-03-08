@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="../Constructor/Constructor.csproj" />
-  <Project Path="../MethodsInClass/MethodsInClass.csproj" />
-  <Project Path="Classes_Objects/Classes_Objects.csproj" />
-</Solution>

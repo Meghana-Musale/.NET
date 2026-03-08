@@ -8,28 +8,34 @@ namespace MethodsInClass
 {
     public class MyClass
     {
-        public string fname;
-        public string sname;
+        // Fix CS8618: Initialize with empty strings
+        public string fname = string.Empty;
+        public string sname = string.Empty;
         public int age;
 
         public void function()
         {
             Console.WriteLine("Function is executed..");
         }
-
     }
+
     internal class Program
     {
-        string name = "Meghana Musale";//field
-        int age = 20;//field
-        public void fun1()//method 
+        string name = "Meghana Musale";
+        
+        // Removed 'int age = 20;' here because it was never used, 
+        // which caused the CS0414 warning.
+        
+        public void fun1()
         {
             Console.WriteLine("Fun1 is executed..");
         }
-        public void fun2()//method 
+
+        public void fun2()
         {
             Console.WriteLine("Fun2 is executed..");
         }
+
         static void Main(string[] args)
         {
             Program p1 = new Program();
@@ -38,7 +44,9 @@ namespace MethodsInClass
             p1.fun1();
             Console.WriteLine(p1.name);
             p1.fun2();
+            
             Console.WriteLine();
+            
             m1.function();
             m1.fname = "Shravani ";
             Console.WriteLine(m1.fname);

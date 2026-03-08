@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\bin\Debug\Operators.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\bin\Debug\Operators.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\bin\Debug\Operators.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\obj\Debug\Operators.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Operators\obj\Debug\Operators.pdb

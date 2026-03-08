@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\bin\Debug\Variables.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\bin\Debug\Variables.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\bin\Debug\Variables.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\obj\Debug\Variables.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Variables\obj\Debug\Variables.pdb

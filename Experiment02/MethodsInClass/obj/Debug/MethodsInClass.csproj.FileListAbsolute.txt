@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\bin\Debug\MethodsInClass.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\bin\Debug\MethodsInClass.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\bin\Debug\MethodsInClass.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\obj\Debug\MethodsInClass.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\obj\Debug\MethodsInClass.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\obj\Debug\MethodsInClass.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Experiment02\MethodsInClass\obj\Debug\MethodsInClass.pdb

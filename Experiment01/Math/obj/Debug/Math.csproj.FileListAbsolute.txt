@@ -1,7 +1,0 @@
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\bin\Debug\Math.exe.config
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\bin\Debug\Math.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\bin\Debug\Math.pdb
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\obj\Debug\Math.csproj.AssemblyReference.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\obj\Debug\Math.exe
-C:\Users\manth\OneDrive\Desktop\DKTE\.NET\Experiments\Math\obj\Debug\Math.pdb
