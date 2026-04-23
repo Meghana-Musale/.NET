@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\bin\Debug\net10.0\MethodWithLambda.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\bin\Debug\net10.0\MethodWithLambda.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\bin\Debug\net10.0\MethodWithLambda.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\bin\Debug\net10.0\MethodWithLambda.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\bin\Debug\net10.0\MethodWithLambda.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\refint\MethodWithLambda.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\MethodWithLambda.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment04\MethodWithLambda\obj\Debug\net10.0\ref\MethodWithLambda.dll

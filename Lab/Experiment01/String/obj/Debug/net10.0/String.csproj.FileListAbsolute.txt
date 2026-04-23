@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\bin\Debug\net10.0\String.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\bin\Debug\net10.0\String.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\bin\Debug\net10.0\String.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\bin\Debug\net10.0\String.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\bin\Debug\net10.0\String.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\refint\String.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\String.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment01\String\obj\Debug\net10.0\ref\String.dll

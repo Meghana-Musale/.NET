@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\bin\Debug\net10.0\ISP.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\bin\Debug\net10.0\ISP.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\bin\Debug\net10.0\ISP.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\bin\Debug\net10.0\ISP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\bin\Debug\net10.0\ISP.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\refint\ISP.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ISP.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment03\ISP\obj\Debug\net10.0\ref\ISP.dll

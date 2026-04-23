@@ -1,0 +1,15 @@
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\bin\Debug\net10.0\AccessModifiers.exe
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\bin\Debug\net10.0\AccessModifiers.deps.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\bin\Debug\net10.0\AccessModifiers.runtimeconfig.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\bin\Debug\net10.0\AccessModifiers.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\bin\Debug\net10.0\AccessModifiers.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.AssemblyInfoInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.AssemblyInfo.cs
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.sourcelink.json
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\refint\AccessModifiers.dll
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.pdb
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\AccessModifiers.genruntimeconfig.cache
+D:\manthan\MyData\Desktop\DKTE\dotnet\Labwork\.NET\Experiment02\AccessModifiers\obj\Debug\net10.0\ref\AccessModifiers.dll
