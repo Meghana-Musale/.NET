@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\CRMMVC\\CRMAdvanced\\CRMAdvanced.csproj",
+      "projectUniqueName": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment06\\CRMMVC\\CRMAdvanced\\CRMAdvanced.csproj",
       "projectName": "CRMAdvanced",
-      "projectPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\CRMMVC\\CRMAdvanced\\CRMAdvanced.csproj",
+      "projectPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment06\\CRMMVC\\CRMAdvanced\\CRMAdvanced.csproj",
       "packagesPath": "C:\\Users\\manth\\.nuget\\packages\\",
-      "outputPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\CRMMVC\\CRMAdvanced\\obj\\",
+      "outputPath": "D:\\manthan\\MyData\\Desktop\\DKTE\\dotnet\\Labwork\\.NET\\Experiment06\\CRMMVC\\CRMAdvanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manth\\AppData\\Roaming\\NuGet\\NuGet.Config"

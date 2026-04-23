@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMAdvanced")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098eebf595954f7e65a736118ef9ab38dadf823b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMAdvanced")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMAdvanced")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
